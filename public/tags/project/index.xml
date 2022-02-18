@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>project on risotto demo</title>
+    <link>https://risotto.joeroe.io/tags/project/</link>
+    <description>Recent content in project on risotto demo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2021 Joe Roe</copyright><atom:link href="https://risotto.joeroe.io/tags/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tech Events API</title>
+      <link>https://risotto.joeroe.io/projects/events-api/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://risotto.joeroe.io/projects/events-api/</guid>
+      <description>&lt;br/&gt;
+This open source project is organized by Code for Greenville, a Code for America brigade. I&#39;ve been contributing to the project since 2020, with most of my activity beginning in early 2022.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,6 +1,6 @@
 baseURL = "https://risotto.joeroe.io"
 theme = "risotto"
-title = "risotto demo"
+title = "ramona e.j. spence"
 author = "Joe Roe"
 copyright = "© 2021 Joe Roe"
 paginate = 3
@@ -22,8 +22,8 @@ mode = "dark-mode"
 
 # Sidebar: about/bio
 [params.about]
-title = "risotto"
-description = "A [hugo](https://gohugo.io) theme inspired by terminal ricing."
+title = "ramona e.j. spence"
+description = "Hi! I'm Ramona Spence and you've found my personal website and portfolio. I'm a software engineer, making active contributions to open source software and learning more every day with personal projects."
 logo = "images/rice.svg"
 
 # Sidebar: social links
@@ -34,7 +34,7 @@ logo = "images/rice.svg"
 [[params.socialLinks]]
 icon = "fab fa-github"
 title = "GitHub"
-url = "https://github.com/joeroe/risotto"
+url = "https://github.com/ramonaspence"
 
 [[params.socialLinks]]
 icon = "fas fa-envelope"
