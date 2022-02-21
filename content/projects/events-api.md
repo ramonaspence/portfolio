@@ -9,7 +9,7 @@ tags = [
 +++
 
 
-This open source project is organized by Code for Greenville, a Code for America brigade. <!--more-->
+This open source project is organized by Code for Greenville, a Code for America brigade.
 
 I've been contributing to the project since 2020, with most of my activity beginning in early 2022. 
 
