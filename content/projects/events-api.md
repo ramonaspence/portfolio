@@ -9,14 +9,8 @@ tags = [
 +++
 
 
-This open source project is organized by Code for Greenville, a Code for America brigade.
-
-I've been contributing to the project since 2020, with most of my activity beginning in early 2022. 
+This Code for Greenville project queries their own organizations API to compile a list of organizations in the upstate who are hosting events on Meeetup or Event Brite. <--more!-->
+I discovered the project after graduating from Carolina Code School. I got the chance to meet two organizers at a local gathering in 2020, just before we started to quarantine. 
 
 This application queries data.openupstate.org/ to create a list of organizations hosting events on Meetup.com and Eventbrite.com
-Issues I've participated in:
-
-
-
-
-
+Issues I've partici
