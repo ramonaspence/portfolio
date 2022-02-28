@@ -8,4 +8,5 @@ tags = [
 ]
 +++
 
-Chef's Notebook is a full-stack application built in Django and React.js. 
+At Carolina Code School I had a final project assignment to create a full-stack app. There were more detailed criteria that the app had to meet. <!--more-->
+[Link to ccs final project criteria or copy into gist and link that]
