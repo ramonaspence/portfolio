@@ -1,3 +1,4 @@
-My name's Ramona. 
+# Hey there, I'm Ramona.
 
-I believe software can change the world and already has in many ways.
+## You've landed on my personal website
+### where I share what I'm excited about and work that I do with software
