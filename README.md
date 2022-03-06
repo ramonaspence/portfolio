@@ -1,0 +1,3 @@
+# This is my website and portfolio
+
+I built this using [Hugo](https://gohugo.io/) and a Hugo theme, [Risotto](https://hugo-theme-gallery.rochefort.dev/themes/280-risotto). This is a really cool way to build a website, because Hugo does most of the leg-work for you. I've taken the opportunity to learn Markdown syntax, which is the language Hugo "pages" are written in. This was a perfect choice for me as I mostly work with Python3 and tend not to touch frontend web development, like HTML and CSS, although knowleddge of both allow me to make small modifications to the theme I used. 
