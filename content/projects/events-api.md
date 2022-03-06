@@ -9,8 +9,7 @@ tags = [
 +++
 
 
-This Code for Greenville project queries their own organizations API to compile a list of organizations in the upstate who are hosting events on Meeetup or Event Brite. <!--more-->
-I discovered the project after graduating from Carolina Code School. I got the chance to meet two organizers at a local gathering in 2020, just before we started to quarantine. 
+This Code for Greenville project collects and formats information on tech tech related meetup and eventbrite events serving the data in a standardized format.  <!--more-->
+The application first aggregates a list of organizations that host their events on Meetup and Eventbrite from Code for Greenville's [Organizations API](https://github.com/codeforgreenville/OpenData/blob/master/ORGANIZATIONS_API.md) and uses the data found there to query Meetup and Eventbrite APIs for the organizations' event data. THat data gets formated in one standard way except when the API is specifically asked to return the data in JSON+LD content type, which gives the data context and gives search engines a way to understand the data. 
 
-This application queries data.openupstate.org/ to create a list of organizations hosting events on Meetup.com and Eventbrite.com
-Issues I've partici
+
