@@ -1,7 +1,7 @@
 :root {
-    --bg: var(--black);
-    --dark-bg: var(--dark-black);
-    --bright-bg: var(--bright-black);
-    --fg: var(--white);
-    --bright-fg: var(--bright-white);
+    --bg: var(--aqua);
+    --dark-bg: var(--dark-blue);
+    --bright-bg: var(--turquoise);
+    --fg: var(--pink);
+    --bright-fg: var(--baby-white);
 }
