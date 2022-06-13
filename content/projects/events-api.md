@@ -1,6 +1,6 @@
 +++
 author = "Ramona E.J. Spence"
-title = "Tech Events API"
+title = "Events API"
 date = "2022-02-14"
 description = "Open Source project organized by Code for Greenville"
 tags = [
@@ -8,30 +8,34 @@ tags = [
 ]
 +++
 
+<br />
 
-Finding tech-related meetups that are in your area can be a bit of a pain when they're often split among platforms. Code for Greenville aims to solve that problem for the Upstate of South Carolina by bringing these events to one place and automatically updating it with our [Events API](https://github.com/codeforgreenville/upstate_tech_cal_service).<!--more--> 
+Finding tech-related meetups that are in your area can be a bit of a pain when they're often split among platforms. Code for Greenville aims to solve that problem for the Upstate of South Carolina by bringing these events to one place: our [Events API](https://github.com/codeforgreenville/upstate_tech_cal_service). <!--more-->
 
-The API is built in Flask, a Python framework and is used by a couple of different organizations. [Hack Greenville](https://hackgreenville.com/), Greenville's community of "hackers", techies, builders and tinkerers uses this events API to fill its calendar with relevant events. 
+## **What is it?**
+First off, an API is an **A**pplication **P**rogramming **I**nterface. In essence, an API is the interface between two applications that allows them to share data and communicate.
 
-Taking advantage of Code for Greenville's [organizations API](https://github.com/codeforgreenville/OpenData/blob/master/ORGANIZATIONS_API.md), the Events API creates a list of tech organizations, such as [Women Who Code Greenville](https://www.womenwhocode.com/greenville) and [freeCodeCamp](https://www.fcc-greenville.com/), that are hosting events on Meetup and Eventbrite. 
+The Events API provides data on events related to the tech and software industries in JSON format, but first, there's an application that gathers that data and formats it. I get to work on these two parts!
 
-With the data from the organizations API, we can query Meetup and Eventbrite's APIs to build a list of online and in-person events that holds all of the details of each, including when they are, where they are (if in-person), what organization is putting on the event, and much more.
+Now, other applications can query the API, receive the data, and use it in various ways. [HackGreenville.com](https://hackgeenville.com), for example, consumes the API to fill its calendar with tech-related events!
 
-The events API makes this data available in a colloquial (only it understands which fields represent what) JSON format by default. However, if it's specified in the request, the data is also available in JSON+LD format. 
+## Javascript Object Notation
 
-# Notes:
+I mentioned that the Events API uses a JSON format. This stands for **J**ava**S**cript **O**bject **N**otation. 
 
-Tech Events API:
-* What is the Tech Events API 
-    * Open-source, 
-    * a Flask application that serves data to an API endpoint
-    * contains a script to update a local list of Events, this script gets called on by a PHP cronjob every so often
-* What does the API do 
-    * Uses Org API to retrieve organizations IDs
-    * Uses IDs to request events from Meetup.com and Eventbrite
-    * Formats the respective response data to match API's colloquial JSON format
-* What does the API do, not technically or literally, but what does it do for people, the community, etc?
-    * 
-* Who/what projects consume this API 
-* How has it progressed  
+JSON is a data-interchange format. It's completely language independent, and therefore data in JSON format is interchangeable between applications, no matter what langauges those applications use.
 
+So the Events API is essentially an application that gathers data on tech-related events in a format that can be easily understood by both humans and applications, and then serves that data in a way that it can be accessed by other applications.
+
+
+## Linked Data and Context
+
+This is all great and awesome, but there are still ways for this API to be even more useful. 
+
+We've recently added support for JSON-LD, or Linked Data. This format provides a _context_ that allows search engines to understand and use the data that's there. In this case, the context used is [Schema.org](https://schema.org/).
+
+Say we have a field called `start_date`, you and I can probably infer what the name means, but a search engine just sees a string of characters with a datetime object attached to it. 
+
+With a context like Schema, we have things like an [Event](https://schema.org/Event) which has properties already defined. And `startDate` is one of them! 
+
+Now, a search engine can understand and do something with the information! Pretty cool, right?
