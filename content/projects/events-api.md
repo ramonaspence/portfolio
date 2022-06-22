@@ -30,12 +30,12 @@ So the Events API is essentially an application that gathers data on tech-relate
 
 ## Linked Data and Context
 
-This is all great and awesome, but there are still ways for this API to be even more useful. 
+This is all awesome, but there are still ways for this API to be even more useful. 
 
-We've recently added support for JSON-LD, or Linked Data. This format provides a _context_ that allows search engines to understand and use the data that's there. In this case, the context used is [Schema.org](https://schema.org/).
+We've recently added support for JSON-LD. The "LD" on the end stands for **L**inked **D**ata. This format uses a _context_ that allows search engines to understand and use the data that's there. In this case, the context used is [Schema.org](https://schema.org/).
 
-Say we have a field called `start_date`, you and I can probably infer what the name means, but a search engine just sees a string of characters with a datetime object attached to it. 
+To explain this, let's say we have a field called `start_date`. You and I can probably infer what the name means, but a search engine will only see a string of characters with a datetime object attached to it. 
 
-With a context like Schema, we have things like an [Event](https://schema.org/Event) which has properties already defined. And `startDate` is one of them! 
+With a context like Schema, we have things like an [Event](https://schema.org/Event) which has properties already defined. And `startDate` is one of them!
 
-Now, a search engine can understand and do something with the information! Pretty cool, right?
+Now, a search engine can understand and do something with that information. Pretty cool, right?
