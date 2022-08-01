@@ -1,8 +1,8 @@
 baseURL = "https://ramonaspence.github.io/website-portfolio-hugo/"
 theme = "risotto"
 title = "ramona e.j. spence"
-author = "Joe Roe"
-copyright = "© 2021 Joe Roe"
+author = "Ramona Spence"
+copyright = "© 2022 Ramona Spence"
 paginate = 3
 languageCode = "en"
 DefaultContentLanguage = "en"
