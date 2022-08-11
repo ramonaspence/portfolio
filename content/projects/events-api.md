@@ -6,11 +6,12 @@ description = "Open Source project organized by Code for Greenville"
 tags = [
     "api", "project",
 ]
+summary = "Finding tech-related meetups that are in your area can be a bit of a pain when they're often split among platforms. Code for Greenville aims to solve that problem for the Upstate of South Carolina by bringing these events to one place"
 +++
 
-<br />
+[*Check out this project on Github!*](https://github.com/codeforgreenville/upstate_tech_cal_service)
 
-Finding tech-related meetups that are in your area can be a bit of a pain when they're often split among platforms. Code for Greenville aims to solve that problem for the Upstate of South Carolina by bringing these events to one place: our [Events API](https://github.com/codeforgreenville/upstate_tech_cal_service). <!--more-->
+Finding tech-related meetups that are in your area can be a bit of a pain when they're often split among platforms. Code for Greenville aims to solve that problem for the Upstate of South Carolina by bringing these events to one place.
 
 ## **What is it?**
 First off, an API is an **A**pplication **P**rogramming **I**nterface. In essence, an API is the interface between two applications that allows them to share data and communicate.
