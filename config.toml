@@ -49,10 +49,17 @@ url = "https://orcid.org/0000-0001-2345-6789"
 [menu]
 
   [[menu.main]]
+    identifier = "Bootcamp"
+    name = "Bootcamp"
+    url = "/ccs/"
+    weight = 10
+
+  [[menu.main]]
     identifier = "about"
     name = "About"
     url = "/about/"
     weight = 10
+
 
 [taxonomies]
 category = "categories"
