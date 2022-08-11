@@ -1,6 +1,6 @@
 # My Software Development Experience
 
-My name's Ramona, and this is to showcase my experience as a software developer, my personal projects, and open source projects that I'm involved with.
+My name's Ramona, and this is where I showcase my experience as a software developer, my personal projects, and open source projects that I'm involved with.
 
 I graduated a 12-week [coding bootcamp](https://ramonaspence.github.io/website-portfolio-hugo/ccs/) in 2020. There I completed daily and weekly assignments, all of which required writing and implementing functional code. 
 
