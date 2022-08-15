@@ -42,9 +42,9 @@ title = "Email"
 url = "mailto:ramonaejspence@gmail.com"
 
 [[params.socialLinks]]
-icon = "ai ai-orcid"
-title = "ORCID"
-url = "https://orcid.org/0000-0001-2345-6789"
+icon = "fab fa-linkedin"
+title = "LinkedIn"
+url = "https://www.linkedin.com/in/ramona-spence/"
 
 [menu]
 
