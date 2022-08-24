@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>project on ramona e.j. spence</title>
-    <link>https://risotto.joeroe.io/tags/project/</link>
+    <link>https://ramonaspence.github.io/website-portfolio-hugo/tags/project/</link>
     <description>Recent content in project on ramona e.j. spence</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2021 Joe Roe</copyright>
-    <lastBuildDate>Mon, 14 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://risotto.joeroe.io/tags/project/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2022 Ramona Spence</copyright>
+    <lastBuildDate>Mon, 14 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ramonaspence.github.io/website-portfolio-hugo/tags/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Tech Events API</title>
-      <link>https://risotto.joeroe.io/projects/events-api/</link>
+      <title>Events API</title>
+      <link>https://ramonaspence.github.io/website-portfolio-hugo/projects/events-api/</link>
       <pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://risotto.joeroe.io/projects/events-api/</guid>
-      <description>&lt;p&gt;This open source project is organized by Code for Greenville, a Code for America brigade.&lt;/p&gt;</description>
+      <guid>https://ramonaspence.github.io/website-portfolio-hugo/projects/events-api/</guid>
+      <description>Finding tech-related meetups that are in your area can be a bit of a pain when they&amp;rsquo;re often split among platforms. Code for Greenville aims to solve that problem for the Upstate of South Carolina by bringing these events to one place</description>
     </item>
     
     <item>
       <title>Chef&#39;s Notebook</title>
-      <link>https://risotto.joeroe.io/projects/chefs-notebook/</link>
+      <link>https://ramonaspence.github.io/website-portfolio-hugo/projects/chefs-notebook/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://risotto.joeroe.io/projects/chefs-notebook/</guid>
-      <description>Chef&amp;rsquo;s Notebook is a full-stack application built in Django and React.js.</description>
+      <guid>https://ramonaspence.github.io/website-portfolio-hugo/projects/chefs-notebook/</guid>
+      <description>As a pastry cook, I was responsible for creating desserts to run as specials. I kept the recipes for those creations in a little pocket-sized notebook. I wanted to create an app that could be used just the same way I used that notebook.</description>
     </item>
     
   </channel>

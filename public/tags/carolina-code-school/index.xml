@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>carolina-code-school on ramona e.j. spence</title>
+    <link>https://ramonaspence.github.io/website-portfolio-hugo/tags/carolina-code-school/</link>
+    <description>Recent content in carolina-code-school on ramona e.j. spence</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2022 Ramona Spence</copyright>
+    <lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://ramonaspence.github.io/website-portfolio-hugo/tags/carolina-code-school/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chef&#39;s Notebook</title>
+      <link>https://ramonaspence.github.io/website-portfolio-hugo/projects/chefs-notebook/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ramonaspence.github.io/website-portfolio-hugo/projects/chefs-notebook/</guid>
+      <description>As a pastry cook, I was responsible for creating desserts to run as specials. I kept the recipes for those creations in a little pocket-sized notebook. I wanted to create an app that could be used just the same way I used that notebook.</description>
+    </item>
+    
+  </channel>
+</rss>

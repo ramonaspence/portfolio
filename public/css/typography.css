@@ -67,11 +67,11 @@ p {
 /* Links */
 
 a:link, a:visited {
-    color: var(--fg);
+    color: var(--bright-fg);
 }
 
 a:hover, a:active {
-    color: var(--bright-fg);
+    color: var(--fg);
 }
 
 /* Lists */
@@ -163,7 +163,7 @@ strong {
 /* Highlighting */
 ::selection,
 mark {
-    background-color: var(--yellow);
+    background-color: var(--dark-blue);
     color: var(--bg);
 }
 

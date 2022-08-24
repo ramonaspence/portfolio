@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>portfolio on ramona e.j. spence</title>
-    <link>https://risotto.joeroe.io/tags/portfolio/</link>
+    <link>https://ramonaspence.github.io/website-portfolio-hugo/tags/portfolio/</link>
     <description>Recent content in portfolio on ramona e.j. spence</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2021 Joe Roe</copyright><atom:link href="https://risotto.joeroe.io/tags/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2022 Ramona Spence</copyright><atom:link href="https://ramonaspence.github.io/website-portfolio-hugo/tags/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Projects</title>
-      <link>https://risotto.joeroe.io/projects/</link>
+      <link>https://ramonaspence.github.io/website-portfolio-hugo/projects/</link>
       <pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://risotto.joeroe.io/projects/</guid>
+      <guid>https://ramonaspence.github.io/website-portfolio-hugo/projects/</guid>
       <description></description>
     </item>
     

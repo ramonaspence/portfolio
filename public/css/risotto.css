@@ -7,5 +7,5 @@
 
 body {
     background-color: var(--dark-bg);
-    color: var(--fg);
+    color: var(--bright-fg);
 }
