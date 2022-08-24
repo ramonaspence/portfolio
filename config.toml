@@ -1,4 +1,4 @@
-baseURL = "https://ramonaspence.github.io/website-portfolio-hugo/"
+baseURL = "https://ramonaspence.github.io/portfolio/"
 theme = "risotto"
 title = "ramona e.j. spence"
 author = "Ramona Spence"

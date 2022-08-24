@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on ramona e.j. spence</title>
-    <link>https://ramonaspence.github.io/website-portfolio-hugo/categories/</link>
+    <link>https://ramonaspence.github.io/portfolio/categories/</link>
     <description>Recent content in Categories on ramona e.j. spence</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2022 Ramona Spence</copyright><atom:link href="https://ramonaspence.github.io/website-portfolio-hugo/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2022 Ramona Spence</copyright><atom:link href="https://ramonaspence.github.io/portfolio/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

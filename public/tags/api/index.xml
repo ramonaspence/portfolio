@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>api on ramona e.j. spence</title>
-    <link>https://ramonaspence.github.io/website-portfolio-hugo/tags/api/</link>
+    <link>https://ramonaspence.github.io/portfolio/tags/api/</link>
     <description>Recent content in api on ramona e.j. spence</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2022 Ramona Spence</copyright>
-    <lastBuildDate>Mon, 14 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ramonaspence.github.io/website-portfolio-hugo/tags/api/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 14 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ramonaspence.github.io/portfolio/tags/api/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Events API</title>
-      <link>https://ramonaspence.github.io/website-portfolio-hugo/projects/events-api/</link>
+      <link>https://ramonaspence.github.io/portfolio/projects/events-api/</link>
       <pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://ramonaspence.github.io/website-portfolio-hugo/projects/events-api/</guid>
+      <guid>https://ramonaspence.github.io/portfolio/projects/events-api/</guid>
       <description>Finding tech-related meetups that are in your area can be a bit of a pain when they&amp;rsquo;re often split among platforms. Code for Greenville aims to solve that problem for the Upstate of South Carolina by bringing these events to one place</description>
     </item>
     

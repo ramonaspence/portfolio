@@ -2,53 +2,53 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ramonaspence.github.io/website-portfolio-hugo/about/</loc>
+    <loc>https://ramonaspence.github.io/portfolio/about/</loc>
   </url><url>
-    <loc>https://ramonaspence.github.io/website-portfolio-hugo/</loc>
+    <loc>https://ramonaspence.github.io/portfolio/</loc>
     <lastmod>2022-08-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url><url>
-    <loc>https://ramonaspence.github.io/website-portfolio-hugo/tags/carolina/</loc>
+    <loc>https://ramonaspence.github.io/portfolio/tags/carolina/</loc>
     <lastmod>2022-08-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ramonaspence.github.io/website-portfolio-hugo/tags/code/</loc>
+    <loc>https://ramonaspence.github.io/portfolio/tags/code/</loc>
     <lastmod>2022-08-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ramonaspence.github.io/website-portfolio-hugo/ccs/</loc>
+    <loc>https://ramonaspence.github.io/portfolio/ccs/</loc>
     <lastmod>2022-08-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ramonaspence.github.io/website-portfolio-hugo/tags/</loc>
+    <loc>https://ramonaspence.github.io/portfolio/tags/</loc>
     <lastmod>2022-08-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ramonaspence.github.io/website-portfolio-hugo/tags/api/</loc>
+    <loc>https://ramonaspence.github.io/portfolio/tags/api/</loc>
     <lastmod>2022-02-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ramonaspence.github.io/website-portfolio-hugo/projects/events-api/</loc>
+    <loc>https://ramonaspence.github.io/portfolio/projects/events-api/</loc>
     <lastmod>2022-02-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ramonaspence.github.io/website-portfolio-hugo/tags/project/</loc>
+    <loc>https://ramonaspence.github.io/portfolio/tags/project/</loc>
     <lastmod>2022-02-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ramonaspence.github.io/website-portfolio-hugo/projects/</loc>
+    <loc>https://ramonaspence.github.io/portfolio/projects/</loc>
     <lastmod>2022-02-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ramonaspence.github.io/website-portfolio-hugo/tags/carolina-code-school/</loc>
+    <loc>https://ramonaspence.github.io/portfolio/tags/carolina-code-school/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ramonaspence.github.io/website-portfolio-hugo/projects/chefs-notebook/</loc>
+    <loc>https://ramonaspence.github.io/portfolio/projects/chefs-notebook/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ramonaspence.github.io/website-portfolio-hugo/tags/chefs-notebook/</loc>
+    <loc>https://ramonaspence.github.io/portfolio/tags/chefs-notebook/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ramonaspence.github.io/website-portfolio-hugo/categories/</loc>
+    <loc>https://ramonaspence.github.io/portfolio/categories/</loc>
   </url><url>
-    <loc>https://ramonaspence.github.io/website-portfolio-hugo/tags/portfolio/</loc>
+    <loc>https://ramonaspence.github.io/portfolio/tags/portfolio/</loc>
   </url><url>
-    <loc>https://ramonaspence.github.io/website-portfolio-hugo/tags/projects/</loc>
+    <loc>https://ramonaspence.github.io/portfolio/tags/projects/</loc>
   </url><url>
-    <loc>https://ramonaspence.github.io/website-portfolio-hugo/series/</loc>
+    <loc>https://ramonaspence.github.io/portfolio/series/</loc>
   </url><url>
-    <loc>https://ramonaspence.github.io/website-portfolio-hugo/tags/work/</loc>
+    <loc>https://ramonaspence.github.io/portfolio/tags/work/</loc>
   </url>
 </urlset>

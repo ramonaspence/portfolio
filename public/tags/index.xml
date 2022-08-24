@@ -2,90 +2,90 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on ramona e.j. spence</title>
-    <link>https://ramonaspence.github.io/website-portfolio-hugo/tags/</link>
+    <link>https://ramonaspence.github.io/portfolio/tags/</link>
     <description>Recent content in Tags on ramona e.j. spence</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2022 Ramona Spence</copyright>
-    <lastBuildDate>Tue, 09 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ramonaspence.github.io/website-portfolio-hugo/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ramonaspence.github.io/portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>carolina</title>
-      <link>https://ramonaspence.github.io/website-portfolio-hugo/tags/carolina/</link>
+      <link>https://ramonaspence.github.io/portfolio/tags/carolina/</link>
       <pubDate>Tue, 09 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://ramonaspence.github.io/website-portfolio-hugo/tags/carolina/</guid>
+      <guid>https://ramonaspence.github.io/portfolio/tags/carolina/</guid>
       <description></description>
     </item>
     
     <item>
       <title>code</title>
-      <link>https://ramonaspence.github.io/website-portfolio-hugo/tags/code/</link>
+      <link>https://ramonaspence.github.io/portfolio/tags/code/</link>
       <pubDate>Tue, 09 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://ramonaspence.github.io/website-portfolio-hugo/tags/code/</guid>
+      <guid>https://ramonaspence.github.io/portfolio/tags/code/</guid>
       <description></description>
     </item>
     
     <item>
       <title>api</title>
-      <link>https://ramonaspence.github.io/website-portfolio-hugo/tags/api/</link>
+      <link>https://ramonaspence.github.io/portfolio/tags/api/</link>
       <pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://ramonaspence.github.io/website-portfolio-hugo/tags/api/</guid>
+      <guid>https://ramonaspence.github.io/portfolio/tags/api/</guid>
       <description></description>
     </item>
     
     <item>
       <title>project</title>
-      <link>https://ramonaspence.github.io/website-portfolio-hugo/tags/project/</link>
+      <link>https://ramonaspence.github.io/portfolio/tags/project/</link>
       <pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://ramonaspence.github.io/website-portfolio-hugo/tags/project/</guid>
+      <guid>https://ramonaspence.github.io/portfolio/tags/project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>carolina-code-school</title>
-      <link>https://ramonaspence.github.io/website-portfolio-hugo/tags/carolina-code-school/</link>
+      <link>https://ramonaspence.github.io/portfolio/tags/carolina-code-school/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ramonaspence.github.io/website-portfolio-hugo/tags/carolina-code-school/</guid>
+      <guid>https://ramonaspence.github.io/portfolio/tags/carolina-code-school/</guid>
       <description></description>
     </item>
     
     <item>
       <title>chefs-notebook</title>
-      <link>https://ramonaspence.github.io/website-portfolio-hugo/tags/chefs-notebook/</link>
+      <link>https://ramonaspence.github.io/portfolio/tags/chefs-notebook/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ramonaspence.github.io/website-portfolio-hugo/tags/chefs-notebook/</guid>
+      <guid>https://ramonaspence.github.io/portfolio/tags/chefs-notebook/</guid>
       <description></description>
     </item>
     
     <item>
       <title>portfolio</title>
-      <link>https://ramonaspence.github.io/website-portfolio-hugo/tags/portfolio/</link>
+      <link>https://ramonaspence.github.io/portfolio/tags/portfolio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ramonaspence.github.io/website-portfolio-hugo/tags/portfolio/</guid>
+      <guid>https://ramonaspence.github.io/portfolio/tags/portfolio/</guid>
       <description></description>
     </item>
     
     <item>
       <title>projects</title>
-      <link>https://ramonaspence.github.io/website-portfolio-hugo/tags/projects/</link>
+      <link>https://ramonaspence.github.io/portfolio/tags/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ramonaspence.github.io/website-portfolio-hugo/tags/projects/</guid>
+      <guid>https://ramonaspence.github.io/portfolio/tags/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>work</title>
-      <link>https://ramonaspence.github.io/website-portfolio-hugo/tags/work/</link>
+      <link>https://ramonaspence.github.io/portfolio/tags/work/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ramonaspence.github.io/website-portfolio-hugo/tags/work/</guid>
+      <guid>https://ramonaspence.github.io/portfolio/tags/work/</guid>
       <description></description>
     </item>
     
