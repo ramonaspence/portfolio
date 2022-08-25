@@ -10,7 +10,7 @@ height:20rem;
 padding-top:0;
 margin:1rem;
 margin-top:0;
-border:1px solid #022635;" src="https://ramonaspence.github.io/website-portfolio-hugo/images/dev_portrait.jpeg" alt="it didn't work" />
+border:1px solid #022635;" src="https://ramonaspence.github.io/portfolio/images/dev_portrait.jpeg" alt="it didn't work" />
 
 
 I'm Ramona, but you've seen my name on this page enough already.
